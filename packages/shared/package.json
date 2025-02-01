@@ -1,7 +1,7 @@
 {
   "name": "@blingo-reader/shared",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "shared module of svg ebook reader",
   "author": "hhk-png <fangluoabc@163.com>",
   "license": "MIT",

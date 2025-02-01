@@ -1,7 +1,7 @@
 {
   "name": "@blingo-reader/svg-render",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "render text to svg",
   "author": "hhk-png <fangluoabc@163.com>",
